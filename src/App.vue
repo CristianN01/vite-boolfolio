@@ -20,5 +20,6 @@ import MainHeader from './components/MainHeader.vue';
 </template>
 
 <style lang="scss">
+  @use "../styles/partials/variables";
   @use "../styles/general.scss";
 </style>
